@@ -1,4 +1,3 @@
-# Student_keep_track
 # Student Entry Web Application
 
 This is a web application for managing student entries. The application allows users to create, view, and store student information in a database.
